@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Axel-aLTEr
+- 👋 Hi, I’m Axel
 - 👀 I’m interested in handy script to make daily work smoothly
 - 🌱 I’m currently learning AI training and deployment
 - 💞️ I’m looking to collaborate on ...
